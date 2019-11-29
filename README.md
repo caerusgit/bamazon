@@ -20,4 +20,4 @@ However, if your store _does_ have enough of the product, it will fulfill the cu
 
 
 
-Video: 
+Video: https://github.com/caerusgit/bamazon/blob/master/bamazon.mov
